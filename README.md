@@ -4,12 +4,9 @@ Welcome to my GitHub profile! Here’s a little about me:
 
 ---
 - 🌱 I’m currently researching **MLLM**, **MLLM-RL** and **MLLM4emb**.
-- ✨ I’m working on **🤖 Multimodal LLMs**  of [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory).
+- ✨ I’m working on **🤖 Multimodal LLMs** of [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory).
 - 🤗 I am interested in (M/O)LLM, Retrieval, RAG, etc.
-
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kuangdd01&show_icons=true)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kuangdd01&langs_count=3&hide=javascript,go,html,css,tex,Roff,C,Assembly)
-
+- 💼 I am eager to take part in open-source project work and happy to see more (M)LLMs adapted in LLaMA-Factory!
 
 ---
 
