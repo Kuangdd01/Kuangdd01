@@ -4,8 +4,9 @@ Welcome to my GitHub profile! Here’s a little about me:
 
 ---
 - 🌱 I'm currently researching **MLLM**, **MLLM-RL** and **MLLM4emb**.
-- ✨ I'm working on **🤖 Multimodal LLMs** of [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory).
-- 🤗 I'm eager to learn more and discuss with others. 
+- ✨ I'm working on ** Multimodal LLMs** of [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory).
+- 🤗 I'm eager to learn more and discuss with others.
+- 🔥 I'am willing to study more ai related infrastructure skills from the community.
 
 ---
 
